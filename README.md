@@ -5,6 +5,14 @@ Guess the trooper game.
 <h1 align="center">Guess the Trooper</h1>
 <br>
 
+<img src="./screen.gif" width="500"></img>
+
+In this game you need to guess a trooper by his shadow.
+
+<img src="./trooper.jpg" width="200"></img>
+
+[Play it online](https://main--comfy-hummingbird-713cfe.netlify.app/) 🕹️
+
 ## Quick start
 
 1. Clone the repo.
